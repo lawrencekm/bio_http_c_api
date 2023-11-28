@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "bioapi_type.h": "c",
+        "pvapi_type.h": "c",
+        "bioapi_err.h": "c",
+        "pvapi_api.h": "c",
+        "pvapi_err.h": "c",
+        "stdio.h": "c",
+        "string.h": "c"
+    }
+}
